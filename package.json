@@ -1,0 +1,25 @@
+{
+  "name": "kino",
+  "version": "0.0.1",
+  "description": "Tickets",
+  "main": "index.js",
+  "dependencies": {
+    "mercadolibre": "0.0.9",
+    "mercadopago": "~0.5.0",
+    "meteor-node-stubs": "^0.2.3",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adriano_gbn",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianogbn/kino.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adrianogbn/kino/issues"
+  }
+}
